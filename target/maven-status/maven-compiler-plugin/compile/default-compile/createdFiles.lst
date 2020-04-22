@@ -1,0 +1,10 @@
+com\animo\email\result\ServerResponse.class
+com\animo\email\controllerJDBC\JDBCrun.class
+com\animo\email\EmailApplication.class
+com\animo\email\Service\IMailService.class
+com\animo\email\Service\impl\IMailServiceImpl.class
+com\animo\email\controller\EmailController.class
+com\animo\email\enums\ResultEnum.class
+com\animo\email\controllerJDBC\JDBCserviceImpl.class
+com\animo\email\controllerJDBC\JDBCservice.class
+com\animo\email\controllerHtml\View.class
